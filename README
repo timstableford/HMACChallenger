@@ -1,0 +1,3 @@
+Java program to generate one time passwords on a challenge based basis.
+
+First argument is the 10 digit secret key.
